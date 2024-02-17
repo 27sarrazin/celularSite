@@ -29,6 +29,7 @@ body{
 }
 .hamburguer{
     cursor: pointer;
+    font-size: 50px;
    
 }
 .mobile_menu{
