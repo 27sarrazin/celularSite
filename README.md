@@ -1,2 +1,2 @@
 # celularSite
-projeto simples usando HTML e CSS
+projeto simples usando HTML, CSS e JavaScript  
